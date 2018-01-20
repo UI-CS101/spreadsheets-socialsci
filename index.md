@@ -2,9 +2,6 @@
 layout: lesson
 root: .
 ---
-FIXME: home page introduction
+These lessons on responsible spreadsheet practice are intended for social scientists and others who need to work with tabular data.
 
-> ## Prerequisites
->
-> FIXME
-{: .prereq}
+They were written by Peter Smyth at the University of Manchester for [Data Carpentry](https://datacarpentry.org).
